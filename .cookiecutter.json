@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/cjohnson/Documents/Git/Personal",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Christopher Johnson",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "chrisj.egr@gmail.com",
+  "friendly_name": "Python SHT4X",
+  "github_user": "ceeeeej",
+  "license": "MIT",
+  "package_name": "python_sht4x",
+  "project_name": "python-sht4x",
+  "version": "0.0.0"
+}
